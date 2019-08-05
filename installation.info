@@ -1,0 +1,9 @@
+Intallation Dependencies:
+
+Fedora:
+
+On a Fedora environment (tested on Fedora 30), in order to run this, you will need to have requests and pycrypto installed. 
+
+Run "pip install requests pycrypto" before running it.
+
+
